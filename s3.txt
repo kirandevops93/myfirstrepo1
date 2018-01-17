@@ -1,0 +1,6 @@
+hi
+git ststus
+git clone
+git git pull
+git log
+
